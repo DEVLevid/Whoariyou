@@ -1,0 +1,29 @@
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependências
+node_modules
+dist
+build
+.venv
+vendor
+*.pyc
+
+# Arquivos de configuração de IDEs e editores
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+.c9
+
+# Segredos e variáveis de ambiente
+.env
+.env.local
+.secret
+secrets.js
